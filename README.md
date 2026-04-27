@@ -30,6 +30,7 @@ colortools
 |          | - color-wheel.css
 |          | - index.css
 |          \ - palette.css
+|
 | - CNAME # настройка домена
 | - index.html # основная страница
 | - LICENSE
